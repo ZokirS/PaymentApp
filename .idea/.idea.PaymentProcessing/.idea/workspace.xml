@@ -14,7 +14,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97539911-deb6-4e45-aa7d-d81a19625625" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/PaymentProcessing.sln.DotSettings.user" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Payment.IntegrationTests/Payment.IntegrationTests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Payment.UnitTests/Payment.UnitTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PaymentProcessing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PaymentProcessing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaymentProcessing.sln" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentProcessing.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,15 +31,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ZokirS"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ZokirS&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/ZokirS/Payment.git",
+    "url": "https://github.com/ZokirS/PaymentApp.git",
     "accountId": "b816bac0-f18b-4821-9ff0-47e2f18f14e4"
   }
 }]]></component>
@@ -46,10 +50,10 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="Toolset" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3KkJrVh2C0eHi97aFoTo13kKPIB" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -74,10 +78,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "rider.unittesting.toolwindow.stripe.button.shown": "true",
     "settings.editor.selected.configurable": "SolutionBuilderGeneralOptionsPage"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Payment.Web: http">
     <configuration name="Payment.Web: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Payment.Web/Payment.Web.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net10.0" />
